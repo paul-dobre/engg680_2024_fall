@@ -6,4 +6,4 @@ Davis Dickson 30129540
 
 Kaleigh Beer 30045758
 
-Assignment 3 is about learning to apply gradient descent and logistic regression methods to real data. This will reinforce what we have learned in lecture and also help us with our python skills.
+Assignment 4 is about learning to apply Machine Learning models to a real-world problem and data. We will also learn how to use Scikit and continuing to develop our skills on Python.
